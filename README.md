@@ -8,7 +8,6 @@ This package is created to distribute KBox, which allow users to share and deref
 
 * Type the following:
 ```
-java -jar kbox.jar <command> [option]
 airML <command> [option]
 Where [command] is:
    * -createIndex <directory>    - Create an index with the files in a given directory.
