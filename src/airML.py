@@ -2,7 +2,7 @@ import sys
 import os
     
 def kbox_execute():   
-    JAR_EXECUTE = "java -jar kbox-v0.0.2-alpha.jar"
+    JAR_EXECUTE = "java -jar kbox.jar" # kbox-v0.0.2-alpha.jar
 
     if(len(sys.argv) ==1 ):
         returned_output = os.system(JAR_EXECUTE)

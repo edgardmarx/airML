@@ -1,6 +1,3 @@
-# Created by https://www.gitignore.io/api/python
-# Edit at https://www.gitignore.io/?templates=python
-
 ### Python ###
 # Byte-compiled / optimized / DLL files
 __pycache__/
@@ -58,9 +55,6 @@ coverage.xml
 *.mo
 *.pot
 
-# Scrapy stuff:
-.scrapy
-
 # Sphinx documentation
 docs/_build/
 
@@ -76,24 +70,6 @@ target/
 #   having no cross-platform support, pipenv may install dependencies that don't work, or not
 #   install all needed dependencies.
 #Pipfile.lock
-
-# celery beat schedule file
-celerybeat-schedule
-
-# SageMath parsed files
-*.sage.py
-
-# Spyder project settings
-.spyderproject
-.spyproject
-
-# Rope project settings
-.ropeproject
-
-# Mr Developer
-.mr.developer.cfg
-.project
-.pydevproject
 
 # mkdocs documentation
 /site
