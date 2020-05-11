@@ -1,6 +1,6 @@
 # airML
 
-This package is created to distribute KBox, which allow users to share and dereference ML models.
+This package is created to distribute airlML, which allow users to share and dereference ML models.
 
 ### You can use airML in the command line
 
